@@ -1,0 +1,15 @@
+C:\Users\Макс\source\repos\typesna4\typesna4\bin\Debug\net6.0\typesna4.exe
+C:\Users\Макс\source\repos\typesna4\typesna4\bin\Debug\net6.0\typesna4.deps.json
+C:\Users\Макс\source\repos\typesna4\typesna4\bin\Debug\net6.0\typesna4.runtimeconfig.json
+C:\Users\Макс\source\repos\typesna4\typesna4\bin\Debug\net6.0\typesna4.dll
+C:\Users\Макс\source\repos\typesna4\typesna4\bin\Debug\net6.0\typesna4.pdb
+C:\Users\Макс\source\repos\typesna4\typesna4\obj\Debug\net6.0\typesna4.csproj.AssemblyReference.cache
+C:\Users\Макс\source\repos\typesna4\typesna4\obj\Debug\net6.0\typesna4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Макс\source\repos\typesna4\typesna4\obj\Debug\net6.0\typesna4.AssemblyInfoInputs.cache
+C:\Users\Макс\source\repos\typesna4\typesna4\obj\Debug\net6.0\typesna4.AssemblyInfo.cs
+C:\Users\Макс\source\repos\typesna4\typesna4\obj\Debug\net6.0\typesna4.csproj.CoreCompileInputs.cache
+C:\Users\Макс\source\repos\typesna4\typesna4\obj\Debug\net6.0\typesna4.dll
+C:\Users\Макс\source\repos\typesna4\typesna4\obj\Debug\net6.0\refint\typesna4.dll
+C:\Users\Макс\source\repos\typesna4\typesna4\obj\Debug\net6.0\typesna4.pdb
+C:\Users\Макс\source\repos\typesna4\typesna4\obj\Debug\net6.0\typesna4.genruntimeconfig.cache
+C:\Users\Макс\source\repos\typesna4\typesna4\obj\Debug\net6.0\ref\typesna4.dll
